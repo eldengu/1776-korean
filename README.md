@@ -8,6 +8,7 @@
 ## 폴더
 
 - [`federalist-papers/`](federalist-papers/) — 연방주의자 논집 한국어 번역, 용어집(glossary)
+- [`presidential-speeches/`](presidential-speeches/) — 미국 대통령 연설 (원문·번역 나란히 보기)
 
 ## 라이선스
 
