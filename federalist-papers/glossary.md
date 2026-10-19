@@ -67,3 +67,7 @@
 | alliance / treaty / compact, convention (with foreign states) | 동맹 / 조약 / 협정 | 외국과의 convention은 "협정" — 제헌회의(Convention)와 구별. (제2편) |
 | foreign force / foreign influence | 외국의 무력 / 외국의 간섭 | influence가 외국 세력의 개입을 뜻할 때 "간섭". (제2편 제목) |
 | constituents | (대표를 뽑아 보낸) 국민 | 쉬운 말로 "국민"이라 옮기고 필요하면 풀어 씀. (제2편) |
+| laws of nations | 국제법 | 처음 나올 때 "국제법(여러 나라가 서로 지켜야 할 법)"으로 풀이. (제3편) |
+| just causes of war | 전쟁의 정당한 이유 | (제3편) |
+| hostilities | 적대 행위 | (제3편) |
+| Doge | 총독(최고 행정관) | 제노바의 최고 행정관. (제3편) |
