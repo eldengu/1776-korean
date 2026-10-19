@@ -2,7 +2,7 @@
 
 *1793년 3월 4일 월요일 · 필라델피아 · 원문 약 135단어 (역대 가장 짧은 취임사)*
 
-> 원문과 번역을 나란히 보려면 [HTML 버전](1793-washington-second-inaugural.html)을 여세요. ([렌더링된 화면으로 보기](https://htmlpreview.github.io/?https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1793-washington-second-inaugural.html))
+> 원문과 번역을 나란히 보려면 [HTML 버전](1793-washington-second-inaugural.html)을 여세요. (GitHub에서는 코드로 보이므로, 파일을 내려받아(Download raw file) 브라우저로 열어 주세요.)
 
 > Fellow Citizens:
 

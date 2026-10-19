@@ -11,6 +11,6 @@
 
 | 연도 | 대통령 | 연설 | 번역 | 나란히 보기 | 원문 출처 |
 |---|---|---|---|---|---|
-| 1793 | 조지 워싱턴 | 두 번째 취임사 | [읽기](1793-washington-second-inaugural.md) | [보기](https://htmlpreview.github.io/?https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1793-washington-second-inaugural.html) | [Avalon Project](https://avalon.law.yale.edu/18th_century/wash2.asp) |
+| 1793 | 조지 워싱턴 | 두 번째 취임사 | [읽기](1793-washington-second-inaugural.md) | [보기](https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1793-washington-second-inaugural.html) | [Avalon Project](https://avalon.law.yale.edu/18th_century/wash2.asp) |
 
-> **참고**: GitHub에서 `.html` 파일을 열면 화면이 아닌 소스 코드가 보입니다. 위 표의 "보기" 링크는 [htmlpreview.github.io](https://htmlpreview.github.io/)를 통해 HTML을 렌더링된 화면으로 보여 줍니다. 파일 자체는 [여기](1793-washington-second-inaugural.html)에 있습니다.
+> **참고**: GitHub에서는 `.html` 파일이 코드로 보이므로, 나란히 보려면 파일을 내려받아(Download raw file) 브라우저로 열어 주세요.
