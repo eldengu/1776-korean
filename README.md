@@ -3,12 +3,12 @@
 미국 건국 문서를 쉬운 한국어로 옮기는 저장소입니다.
 
 - 지금: 《연방주의자 논집》(The Federalist Papers) 번역 진행 중
-- 예정: 《독립선언서》(Declaration of Independence)
 
 ## 폴더
 
 - [`federalist-papers/`](federalist-papers/) — 연방주의자 논집 한국어 번역, 용어집(glossary)
 - [`presidential-speeches/`](presidential-speeches/) — 미국 대통령 연설 (원문·번역 나란히 보기)
+- [`declaration-of-independence/`](declaration-of-independence/) — 독립선언서 한국어 번역 (영어 원문, 오프라인 읽기용 HTML 포함)
 
 ## 라이선스
 
