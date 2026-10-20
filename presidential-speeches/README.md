@@ -13,5 +13,6 @@
 |---|---|---|---|---|---|
 | 1793 | 조지 워싱턴 | 두 번째 취임사 | [읽기](1793-washington-second-inaugural.md) | [보기](https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1793-washington-second-inaugural.html) | [Avalon Project](https://avalon.law.yale.edu/18th_century/wash2.asp) |
 | 1809 | 제임스 매디슨 | 첫 번째 취임사 | [읽기](1809-madison-first-inaugural.md) | [보기](https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1809-madison-first-inaugural.html) | [Avalon Project](https://avalon.law.yale.edu/19th_century/madison1.asp) |
+| 1813 | 제임스 매디슨 | 두 번째 취임사 | [읽기](1813-madison-second-inaugural.md) | [보기](https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1813-madison-second-inaugural.html) | [Avalon Project](https://avalon.law.yale.edu/19th_century/madison2.asp) |
 
 > **참고**: GitHub에서는 `.html` 파일이 코드로 보이므로, 나란히 보려면 파일을 내려받아(Download raw file) 브라우저로 열어 주세요.
