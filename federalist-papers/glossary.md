@@ -71,3 +71,8 @@
 | just causes of war | 전쟁의 정당한 이유 | (제3편) |
 | hostilities | 적대 행위 | (제3편) |
 | Doge | 총독(최고 행정관) | 제노바의 최고 행정관. (제3편) |
+| militia | 민병대 | 평소엔 생업에 종사하다 필요할 때 무기를 드는 시민 군대. (제4편) |
+| Chief Magistrate | 행정 수반 | executive의 대통령 개인을 가리킬 때와 같은 말. (제4편) |
+| carrying trade | 운송 무역 | 자기 배로 남의 상품을 실어 나르는 무역. (제4편) |
+| navigation | 항해(업) | (제4편) |
+| pretended causes of war | 구실로 내세운 전쟁의 이유 | just causes(정당한 이유)와 대비. (제4편) |
