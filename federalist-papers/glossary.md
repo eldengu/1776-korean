@@ -38,7 +38,7 @@
 | prosperity | 번영 | |
 | safety / security | 안전 | |
 | happiness / welfare | 행복 | welfare가 물질적 의미면 "복리". |
-| empire | 큰 나라 | 해밀턴은 '넓은 영토의 나라'라는 뜻으로 씀. "제국"은 오해를 낳으므로 피함. |
+| empire | 큰 나라 / 제국 | 넓은 영토의 나라를 일반적으로 말할 때는 "큰 나라". 영국 제국(British Empire)처럼 실제 제국이나 고유명사를 가리킬 때는 "제국"을 씀. |
 | despotism / despotic power | 독재 / 독재 권력 | "전제정"보다 쉬움. |
 | tyranny / tyrant | 폭정 / 폭군 | |
 | demagogue | 선동가 | |
