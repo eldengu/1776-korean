@@ -14,5 +14,6 @@
 | [제2편](02.md) | 외국의 무력과 간섭이 가져올 위험에 대하여 | 존 제이 | |
 | [제3편](03.md) | 같은 주제의 계속 (외국의 무력과 간섭이 가져올 위험에 대하여) | 존 제이 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 · [비교 보기](html/03-compare.html) |
 | [제4편](04.md) | 같은 주제의 계속 (외국의 무력과 간섭이 가져올 위험에 대하여) | 존 제이 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
+| [제5편](05.md) | 같은 주제의 계속 (외국의 무력과 간섭이 가져올 위험에 대하여) | 존 제이 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 
 하루에 한 편씩 새 번역을 더해 갑니다.

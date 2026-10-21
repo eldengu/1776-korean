@@ -76,3 +76,7 @@
 | carrying trade | 운송 무역 | 자기 배로 남의 상품을 실어 나르는 무역. (제4편) |
 | navigation | 항해(업) | (제4편) |
 | pretended causes of war | 구실로 내세운 전쟁의 이유 | just causes(정당한 이유)와 대비. (제4편) |
+| Great Britain / British empire | 대브리튼 / 영국 제국 | 영국 전체를 가리키는 옛 이름은 "대브리튼". (제5편) |
+| bordering nations / borderers | 국경을 맞댄 나라 | 서로 이웃이되 사이가 좋지 않은 나라. (제5편) |
+| distinct nations | 서로 별개의 나라 | (제5편) |
+| alliances offensive and defensive | 공격과 방어를 함께하는 동맹 | (제5편) |
