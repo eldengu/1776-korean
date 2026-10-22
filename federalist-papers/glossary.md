@@ -80,3 +80,8 @@
 | bordering nations / borderers | 국경을 맞댄 나라 | 서로 이웃이되 사이가 좋지 않은 나라. (제5편) |
 | distinct nations | 서로 별개의 나라 | (제5편) |
 | alliances offensive and defensive | 공격과 방어를 함께하는 동맹 | (제5편) |
+| dissensions (between the States) | 불화 | 주들 사이의 다툼·갈등. (제6편) |
+| domestic factions and convulsions | 나라 안의 파벌과 소요 | (제6편) |
+| confederate republic | 연합 공화국 | (제6편) |
+| commercial republic | 상업 공화국 | (제6편) |
+| neighboring nations / natural enemies | 이웃한 나라 / 본래 서로 적 | (제6편) |
