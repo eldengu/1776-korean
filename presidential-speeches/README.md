@@ -13,6 +13,7 @@
 |---|---|---|---|---|---|
 | 1789 | 조지 워싱턴 | 첫 번째 취임사 | [읽기](1789-washington-first-inaugural.md) | [보기](https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1789-washington-first-inaugural.html) | [Avalon Project](https://avalon.law.yale.edu/18th_century/wash1.asp) |
 | 1793 | 조지 워싱턴 | 두 번째 취임사 | [읽기](1793-washington-second-inaugural.md) | [보기](https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1793-washington-second-inaugural.html) | [Avalon Project](https://avalon.law.yale.edu/18th_century/wash2.asp) |
+| 1801 | 토머스 제퍼슨 | 첫 번째 취임사 | [읽기](1801-jefferson-first-inaugural.md) | [보기](https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1801-jefferson-first-inaugural.html) | [Avalon Project](https://avalon.law.yale.edu/19th_century/jefinau1.asp) |
 | 1809 | 제임스 매디슨 | 첫 번째 취임사 | [읽기](1809-madison-first-inaugural.md) | [보기](https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1809-madison-first-inaugural.html) | [Avalon Project](https://avalon.law.yale.edu/19th_century/madison1.asp) |
 | 1813 | 제임스 매디슨 | 두 번째 취임사 | [읽기](1813-madison-second-inaugural.md) | [보기](https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1813-madison-second-inaugural.html) | [Avalon Project](https://avalon.law.yale.edu/19th_century/madison2.asp) |
 
