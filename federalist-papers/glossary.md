@@ -85,3 +85,9 @@
 | confederate republic | 연합 공화국 | (제6편) |
 | commercial republic | 상업 공화국 | (제6편) |
 | neighboring nations / natural enemies | 이웃한 나라 / 본래 서로 적 | (제6편) |
+| territorial disputes / crown lands | 영토 분쟁 / 왕실 소유지 | 독립 당시 누구에게도 주어지지 않은 서부 땅. (제7편) |
+| cession (of western lands) | 땅을 연방에 넘김 | (제7편) |
+| tributary (States) | 세금을 바치는 처지의 (주) | 상업 규제로 남에게 부담을 지는 주. (제7편) |
+| public debt of the Union | 연방의 공채 | (제7편) |
+| apportionment | 분담 / 나누는 기준 | (제7편) |
+| Divide et impera | 갈라놓고 다스려라 | 라틴어 격언. (제7편) |
