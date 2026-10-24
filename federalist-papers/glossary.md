@@ -91,3 +91,9 @@
 | public debt of the Union | 연방의 공채 | (제7편) |
 | apportionment | 분담 / 나누는 기준 | (제7편) |
 | Divide et impera | 갈라놓고 다스려라 | 라틴어 격언. (제7편) |
+| standing armies | 상비군 | 평화로울 때도 늘 유지하는 직업 군대. (제8편) |
+| military establishments | 군사 조직 / 군대 | (제8편) |
+| fortifications / fortified places | 요새 | (제8편) |
+| irregulars | 비정규군 | (제8편) |
+| executive arm of government | 정부의 행정 쪽 힘 | (제8편) |
+| insular situation | 섬나라라는 위치 | (제8편) |

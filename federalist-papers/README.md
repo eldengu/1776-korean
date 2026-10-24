@@ -17,5 +17,6 @@
 | [제5편](05.md) | 같은 주제의 계속 (외국의 무력과 간섭이 가져올 위험에 대하여) | 존 제이 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제6편](06.md) | 주들 사이의 불화가 가져올 위험에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제7편](07.md) | 같은 주제의 계속 (주들 사이의 불화가 가져올 위험에 대하여) | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
+| [제8편](08.md) | 주들 사이의 적대 행위가 가져올 결과에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 
 하루에 한 편씩 새 번역을 더해 갑니다.
