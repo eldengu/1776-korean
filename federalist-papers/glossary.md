@@ -97,3 +97,8 @@
 | irregulars | 비정규군 | (제8편) |
 | executive arm of government | 정부의 행정 쪽 힘 | (제8편) |
 | insular situation | 섬나라라는 위치 | (제8편) |
+| domestic faction and insurrection | 나라 안의 파벌과 반란 | (제9편) |
+| tyranny and anarchy | 폭정과 무정부 상태 | (제9편) |
+| good behavior (judges' tenure) | 품행이 바른 동안 자리를 지키는 (재판관) | 종신 재판관 제도. (제9편) |
+| confederacy vs. consolidation | 연합 / 통합 | 제9편에서 반대자들이 가르는 구분. (제9편) |
+| common council | 공동 의회 | 리키아 연합의 의회. (제9편) |
