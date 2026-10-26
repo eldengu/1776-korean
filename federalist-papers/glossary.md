@@ -102,3 +102,9 @@
 | good behavior (judges' tenure) | 품행이 바른 동안 자리를 지키는 (재판관) | 종신 재판관 제도. (제9편) |
 | confederacy vs. consolidation | 연합 / 통합 | 제9편에서 반대자들이 가르는 구분. (제9편) |
 | common council | 공동 의회 | 리키아 연합의 의회. (제9편) |
+| faction (Madison's definition) | 파벌 | 공통의 열정·이익으로 뭉쳐 다른 시민의 권리나 공동체 전체의 이익에 어긋나게 움직이는 무리. (제10편) |
+| popular government | 국민이 다스리는 정부 | (제10편) |
+| pure democracy | 직접 민주정 | 시민이 직접 모여 정부를 운영하는 사회. (제10편) |
+| representation / representatives | 대표 제도 / 대표 | (제10편) |
+| landed / manufacturing / mercantile / moneyed interest | 토지 이익 / 제조업 이익 / 상업 이익 / 금융 이익 | (제10편) |
+| sphere (extended) | 범위 / 넓이 | (제10편) |
