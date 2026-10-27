@@ -108,3 +108,9 @@
 | representation / representatives | 대표 제도 / 대표 | (제10편) |
 | landed / manufacturing / mercantile / moneyed interest | 토지 이익 / 제조업 이익 / 상업 이익 / 금융 이익 | (제10편) |
 | sphere (extended) | 범위 / 넓이 | (제10편) |
+| active commerce / passive commerce | 활발한 상업 / 소극적인 상업 | 자기 배로 직접 하는 상업 / 남의 배에 맡기는 상업. (제11편) |
+| navy / ships of the line | 해군 / 전열함 | (제11편) |
+| neutrality | 중립 | 전쟁 중 어느 쪽도 편들지 않는 권리. (제11편) |
+| prohibitory regulations | 금지 규정 | 통상을 막는 규제. (제11편) |
+| fisheries | 어업(권) | (제11편) |
+| maritime powers | 해상 강국 | (제11편) |
