@@ -21,5 +21,6 @@
 | [제9편](09.md) | 나라 안의 파벌과 반란을 막는 방패로서의 연방에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제10편](10.md) | 파벌의 폭력을 꺾고 다스리는 연방의 힘에 대하여 | 제임스 매디슨 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제11편](11.md) | 상업 관계와 해군에서 본 연방의 유익에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
+| [제12편](12.md) | 세입에서 본 연방의 유익에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 
 하루에 한 편씩 새 번역을 더해 갑니다.

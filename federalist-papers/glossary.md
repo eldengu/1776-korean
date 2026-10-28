@@ -114,3 +114,10 @@
 | prohibitory regulations | 금지 규정 | 통상을 막는 규제. (제11편) |
 | fisheries | 어업(권) | (제11편) |
 | maritime powers | 해상 강국 | (제11편) |
+| revenue | 세입 | 정부가 나라 살림에 쓰려고 거두는 돈. (제12편) |
+| direct taxation / direct taxes | 직접세 | 땅·집 같은 재산에 곧바로 매기는 세금. (제12편) |
+| indirect taxes / imposts / duties | 간접세 / 관세 | impost·duty는 수입품에 매기는 "관세". (제12편) |
+| excise | 소비세 | 나라 안에서 만들고 파는 물건에 매기는 세금. (제12편) |
+| taxes on consumption | 소비에 매기는 세금 | (제12편) |
+| illicit trade / contraband | 불법 거래 / 밀수 | (제12편) |
+| patrols | 순찰대 | 프랑스의 밀수 단속 인력. (제12편) |
