@@ -22,5 +22,6 @@
 | 1812 | 제임스 매디슨 | 1812년 전쟁 교서 | [읽기](1812-madison-war-message.md) | [보기](https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1812-madison-war-message.html) | [American Presidency Project](https://www.presidency.ucsb.edu/documents/special-message-887) |
 | 1813 | 제임스 매디슨 | 두 번째 취임사 | [읽기](1813-madison-second-inaugural.md) | [보기](https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1813-madison-second-inaugural.html) | [Avalon Project](https://avalon.law.yale.edu/19th_century/madison2.asp) |
 | 1817 | 제임스 먼로 | 첫 번째 취임사 | [읽기](1817-monroe-first-inaugural.md) | [보기](https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1817-monroe-first-inaugural.html) | [Avalon Project](https://avalon.law.yale.edu/19th_century/monroe1.asp) |
+| 1823 | 제임스 먼로 | 제7차 연례 교서 (먼로 독트린) | [읽기](1823-monroe-seventh-annual-message.md) | [보기](https://github.com/eldengu/1776-korean/blob/main/presidential-speeches/1823-monroe-seventh-annual-message.html) | [American Presidency Project](https://www.presidency.ucsb.edu/documents/seventh-annual-message-1) |
 
 > **참고**: GitHub에서는 `.html` 파일이 코드로 보이므로, 나란히 보려면 파일을 내려받아(Download raw file) 브라우저로 열어 주세요.
