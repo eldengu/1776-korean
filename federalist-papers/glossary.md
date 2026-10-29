@@ -121,3 +121,6 @@
 | taxes on consumption | 소비에 매기는 세금 | (제12편) |
 | illicit trade / contraband | 불법 거래 / 밀수 | (제12편) |
 | patrols | 순찰대 | 프랑스의 밀수 단속 인력. (제12편) |
+| civil list (national) | 전국 정부의 경비 | 문관·관청을 유지하는 정부 경비. (제13편) |
+| Eastern / Middle / Southern States | 동부 / 가운데 / 남쪽 주 | 연방이 깨질 때 예상되는 지역 연합의 구분. (제13편) |
+| Flanders of America | 아메리카의 플랑드르 | 강대국 사이의 전쟁터가 되는 땅. (제13편) |
