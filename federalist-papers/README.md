@@ -23,5 +23,6 @@
 | [제11편](11.md) | 상업 관계와 해군에서 본 연방의 유익에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제12편](12.md) | 세입에서 본 연방의 유익에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제13편](13.md) | 정부 살림의 절약에서 본 연방의 유익에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
+| [제14편](14.md) | 영토가 넓다는 이유로 제기된 새 헌법 반대론에 대한 답 | 제임스 매디슨 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 
 하루에 한 편씩 새 번역을 더해 갑니다.

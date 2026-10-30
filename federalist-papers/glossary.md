@@ -124,3 +124,7 @@
 | civil list (national) | 전국 정부의 경비 | 문관·관청을 유지하는 정부 경비. (제13편) |
 | Eastern / Middle / Southern States | 동부 / 가운데 / 남쪽 주 | 연방이 깨질 때 예상되는 지역 연합의 구분. (제13편) |
 | Flanders of America | 아메리카의 플랑드르 | 강대국 사이의 전쟁터가 되는 땅. (제13편) |
+| representatives' assembly / diet | 의회 | 독일·폴란드의 신분제 의회(diet)도 "의회". (제14편) |
+| republic vs. democracy (extent) | 공화국 / 민주정 | 민주정은 좁은 땅, 공화국은 넓은 땅에서 가능. (제14편) |
+| United States (territory) | 합중국 | 영토나 나라 이름을 가리킬 때. 연방(Union)과 구별. (제14편) |
+| common miles | 보통 마일 | (제14편) |
