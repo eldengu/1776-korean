@@ -128,3 +128,8 @@
 | republic vs. democracy (extent) | 공화국 / 민주정 | 민주정은 좁은 땅, 공화국은 넓은 땅에서 가능. (제14편) |
 | United States (territory) | 합중국 | 영토나 나라 이름을 가리킬 때. 연방(Union)과 구별. (제14편) |
 | common miles | 보통 마일 | (제14편) |
+| requisitions (of Congress) | 요청 | 연합 의회가 주에 사람과 돈을 내라고 하는 것. 법적 강제력 없음. (제15편) |
+| legislation for States in their corporate capacities | 주를 집단으로 상대하는 입법 | 개인이 아니라 주 정부를 상대로 하는 입법. (제15편) |
+| imperium in imperio | 나라 안의 나라 | (제15편) |
+| sanction / coercion of the magistracy vs. of arms | 제재 / 행정관의 강제 vs. 무기의 강제 | (제15편) |
+| league | 동맹(연맹) | government(정부)와 대비. (제15편) |
