@@ -133,3 +133,6 @@
 | imperium in imperio | 나라 안의 나라 | (제15편) |
 | sanction / coercion of the magistracy vs. of arms | 제재 / 행정관의 강제 vs. 무기의 강제 | (제15편) |
 | league | 동맹(연맹) | government(정부)와 대비. (제15편) |
+| delinquency (of States) | 의무를 어기는 일 | 주들이 분담금 납부 등 연방에 대한 의무를 어김. (제16편) |
+| non-compliance vs. direct and active resistance | 불이행 / 직접적이고 적극적인 저항 | (제16편) |
+| Lycian and Achaean leagues | 리키아 연맹 / 아카이아 연맹 | (제16편) |
