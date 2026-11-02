@@ -136,3 +136,9 @@
 | delinquency (of States) | 의무를 어기는 일 | 주들이 분담금 납부 등 연방에 대한 의무를 어김. (제16편) |
 | non-compliance vs. direct and active resistance | 불이행 / 직접적이고 적극적인 저항 | (제16편) |
 | Lycian and Achaean leagues | 리키아 연맹 / 아카이아 연맹 | (제16편) |
+| residuary authorities | 주에 남겨 두는 나머지 권한 | 전국 정부에 맡기지 않고 주에 남기는 권한. (제17편) |
+| domestic police (of a State) | 국내 치안 | (제17편) |
+| federal constitutions (general) | 연방제 헌법 | 연합 형태 정부 체제 일반. (제17편) |
+| feudal system / vassals / feudatories / retainers | 봉건 제도 / 가신·봉신 / 종자 | (제17편) |
+| feudal anarchy | 봉건적 무정부 상태 | (제17편) |
+| clanship | 씨족 정신 | (제17편) |
