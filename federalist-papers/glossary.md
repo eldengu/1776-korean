@@ -142,3 +142,7 @@
 | feudal system / vassals / feudatories / retainers | 봉건 제도 / 가신·봉신 / 종자 | (제17편) |
 | feudal anarchy | 봉건적 무정부 상태 | (제17편) |
 | clanship | 씨족 정신 | (제17편) |
+| Amphictyonic council / Amphictyons | 암픽티오니아 평의회 / 암픽티오니아 의원 | 고대 그리스 도시들의 연합 평의회. (제18편) |
+| Achaean league | 아카이아 연맹 | 고대 그리스 도시들의 연맹. (제18편) |
+| praetor | 프라이토르(행정 수반) | 아카이아 연맹의 최고 행정관. (제18편) |
+| federal head / tyranny in the head vs. anarchy among the members | 연합의 우두머리 / 우두머리의 폭정 vs. 구성원들 사이의 무질서 | (제18편) |
