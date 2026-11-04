@@ -146,3 +146,9 @@
 | Achaean league | 아카이아 연맹 | 고대 그리스 도시들의 연맹. (제18편) |
 | praetor | 프라이토르(행정 수반) | 아카이아 연맹의 최고 행정관. (제18편) |
 | federal head / tyranny in the head vs. anarchy among the members | 연합의 우두머리 / 우두머리의 폭정 vs. 구성원들 사이의 무질서 | (제18편) |
+| Germanic body / empire | 독일 제국 | 신성 로마 제국. 오늘의 독일 국가와 구별. (제19편) |
+| diet (Germanic) / electors | 의회 / 선제후 | 제국 의회와 황제 선출권을 가진 제후. (제19편) |
+| imperial chamber / aulic council | 제국 법원 / 궁정 평의회 | 제국의 두 최고 재판소. (제19편) |
+| ban of the empire | 제국의 추방령 | 주권적 권리를 박탈하고 재산을 몰수하는 처분. (제19편) |
+| circles (of the empire) | 구역 | 제국을 아홉이나 열 개로 나눈 군사 집행 단위. (제19편) |
+| bailages | 공동 속령 | 스위스 주들이 함께 다스린 지역. (제19편) |
