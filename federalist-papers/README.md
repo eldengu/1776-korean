@@ -29,5 +29,6 @@
 | [제17편](17.md) | 같은 주제의 계속, 지금의 연합 체제로는 연방을 지킬 수 없다는 점에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제18편](18.md) | 같은 주제의 계속, 지금의 연합 체제로는 연방을 지킬 수 없다는 점에 대하여 | 제임스 매디슨 (해밀턴의 도움) | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제19편](19.md) | 같은 주제의 계속, 지금의 연합 체제로는 연방을 지킬 수 없다는 점에 대하여 | 제임스 매디슨 (해밀턴의 도움) | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
+| [제20편](20.md) | 같은 주제의 계속, 지금의 연합 체제로는 연방을 지킬 수 없다는 점에 대하여 | 제임스 매디슨 (해밀턴의 도움) | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 
 하루에 한 편씩 새 번역을 더해 갑니다.

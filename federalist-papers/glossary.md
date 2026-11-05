@@ -152,3 +152,9 @@
 | ban of the empire | 제국의 추방령 | 주권적 권리를 박탈하고 재산을 몰수하는 처분. (제19편) |
 | circles (of the empire) | 구역 | 제국을 아홉이나 열 개로 나눈 군사 집행 단위. (제19편) |
 | bailages | 공동 속령 | 스위스 주들이 함께 다스린 지역. (제19편) |
+| United Netherlands / Belgic confederacy | 네덜란드 연합 / 벨기에 연합 | 네덜란드 연합 공화국. (제20편) |
+| States-General | 연합 의회 | 네덜란드 연합의 중앙 의회. (제20편) |
+| stadtholder | 총독 | 네덜란드 연합의 세습 행정 수반. (제20편) |
+| council of state / chamber of accounts / colleges of admiralty | 국무 평의회 / 회계원 / 해사 위원회 | (제20편) |
+| ad referendum | 재가를 받아 오겠다는 조건 | 본국의 승인을 조건으로 두는 것. (제20편) |
+| extraordinary assemblies | 비상 회의 | 개혁만을 위해 소집한 특별 회의. (제20편) |
