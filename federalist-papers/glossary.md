@@ -158,3 +158,9 @@
 | council of state / chamber of accounts / colleges of admiralty | 국무 평의회 / 회계원 / 해사 위원회 | (제20편) |
 | ad referendum | 재가를 받아 오겠다는 조건 | 본국의 승인을 조건으로 두는 것. (제20편) |
 | extraordinary assemblies | 비상 회의 | 개혁만을 위해 소집한 특별 회의. (제20편) |
+| sanction (of laws) | 제재 | 법을 어긴 쪽에 벌이나 불이익을 주어 따르게 하는 장치. 처음 나올 때 한자 병기. (제21편) |
+| guaranty (of State governments) | 보장 | 주 정부가 폭력으로 뒤집힐 때 서로·연방이 지켜 주겠다는 약속. (제21편) |
+| usurpation | 권력 찬탈 | (제21편) |
+| quotas | 분담금 | 주마다 몫을 정해 내게 하는 방식. 처음 나올 때 괄호로 원어. (제21편) |
+| indirect taxes / direct taxes (on land and buildings) | 간접세 / 직접세 | 직접세는 땅과 건물에 매기는 세금. (제21편) |
+| expressly delegated | 분명하게 넘겨준 | 연합규약 제2조. (제21편) |
