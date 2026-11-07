@@ -164,3 +164,9 @@
 | quotas | 분담금 | 주마다 몫을 정해 내게 하는 방식. 처음 나올 때 괄호로 원어. (제21편) |
 | indirect taxes / direct taxes (on land and buildings) | 간접세 / 직접세 | 직접세는 땅과 건물에 매기는 세금. (제21편) |
 | expressly delegated | 분명하게 넘겨준 | 연합규약 제2조. (제21편) |
+| regulation of commerce | 통상 규제 | 외국과의 무역 조건을 정하는 권한. (제22편) |
+| equal suffrage (of the States) | 주들의 똑같은 투표권 | 크기와 상관없이 한 주에 한 표. (제22편) |
+| Polish diet | 폴란드 의회 | 한 표로 안건을 막을 수 있던 의회. (제22편) |
+| foreign corruption | 외국의 매수 | (제22편) |
+| supreme tribunal / court of final jurisdiction | 최고 재판소 / 최종심 법원 | (제22편) |
+| ratification by the people | 국민의 비준 | 주 입법부의 동의와 구별. (제22편) |
