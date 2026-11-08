@@ -170,3 +170,8 @@
 | foreign corruption | 외국의 매수 | (제22편) |
 | supreme tribunal / court of final jurisdiction | 최고 재판소 / 최종심 법원 | (제22편) |
 | ratification by the people | 국민의 비준 | 주 입법부의 동의와 구별. (제22편) |
+| common defense / national exigencies | 공동 방위 / 나라가 맞닥뜨릴 위기 | (제23편) |
+| means proportioned to the end | 수단은 목적에 걸맞아야 한다 | 해밀턴의 공리. (제23편) |
+| national forces | 국가의 무력 | 육군과 해군. (제23편) |
+| compound / sole government | 복합 정부 / 단일 정부 | 여럿이 연합한 정부 / 하나가 홀로 다스리는 정부. (제23편) |
+| separate confederacies | 따로따로 세운 연합 | (제23편) |
