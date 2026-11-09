@@ -175,3 +175,8 @@
 | national forces | 국가의 무력 | 육군과 해군. (제23편) |
 | compound / sole government | 복합 정부 / 단일 정부 | 여럿이 연합한 정부 / 하나가 홀로 다스리는 정부. (제23편) |
 | separate confederacies | 따로따로 세운 연합 | (제23편) |
+| standing armies in time of peace (constitutional interdiction) | 평화로운 때의 상비군 / 헌법상의 금지 | 상비군은 제8편 용어. 주 헌법의 금지·경고 조항. (제24편) |
+| garrisons | 수비대 | 국경·조선소 등을 지키는 소규모 상설 부대. (제24편) |
+| family compact (France–Spain) | 가족 협정 | 부르봉 왕가인 두 나라의 동맹. (제24편) |
+| dock-yards and arsenals | 조선소와 무기고 | (제24편) |
+| appropriation of money (two years) | 돈의 배정(2년 한도) | 군대 유지비를 2년 넘게 배정하지 못함. (제24편) |
