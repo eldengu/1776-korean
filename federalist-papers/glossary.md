@@ -180,3 +180,7 @@
 | family compact (France–Spain) | 가족 협정 | 부르봉 왕가인 두 나라의 동맹. (제24편) |
 | dock-yards and arsenals | 조선소와 무기고 | (제24편) |
 | appropriation of money (two years) | 돈의 배정(2년 한도) | 군대 유지비를 2년 넘게 배정하지 못함. (제24편) |
+| prerogative (of the crown) | 대권 | 왕이 가진 특별한 권한. (제26편) |
+| Bill of Rights (English, 1688) | 권리 장전 | 명예혁명 때 영국이 만든 문서. (제26편) |
+| ought not vs. shall not | 두지 않는 것이 좋다 / 두어서는 안 된다 | 권고와 금지의 차이. (제26편) |
+| biennial elections | 2년마다 치르는 선거 | (제26편) |

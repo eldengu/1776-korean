@@ -35,5 +35,6 @@
 | [제23편](23.md) | 연방을 지키려면 제안된 헌법만큼 힘 있는 정부가 필요하다는 점에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제24편](24.md) | 공동 방위에 필요한 권한에 대한 추가 검토 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제25편](25.md) | 공동 방위에 필요한 권한의 계속, 입법부의 재량을 묶어서는 안 되는 이유 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
+| [제26편](26.md) | 공동 방위를 위한 입법부의 권한을 묶자는 생각에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 
 하루에 한 편씩 새 번역을 더해 갑니다.
