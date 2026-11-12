@@ -36,5 +36,6 @@
 | [제24편](24.md) | 공동 방위에 필요한 권한에 대한 추가 검토 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제25편](25.md) | 공동 방위에 필요한 권한의 계속, 입법부의 재량을 묶어서는 안 되는 이유 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제26편](26.md) | 공동 방위를 위한 입법부의 권한을 묶자는 생각에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
+| [제27편](27.md) | 같은 주제의 계속, 새 헌법의 법이 군대 없이도 집행될 수 있다는 점에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 
 하루에 한 편씩 새 번역을 더해 갑니다.

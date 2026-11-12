@@ -184,3 +184,7 @@
 | Bill of Rights (English, 1688) | 권리 장전 | 명예혁명 때 영국이 만든 문서. (제26편) |
 | ought not vs. shall not | 두지 않는 것이 좋다 / 두어서는 안 된다 | 권고와 금지의 차이. (제26편) |
 | biennial elections | 2년마다 치르는 선거 | (제26편) |
+| supreme law of the land | 나라의 최고법 | 연방 헌법과 그에 따른 법이 주 법보다 앞섬. (제27편) |
+| ordinary magistracy (of each State) | 각 주의 평범한 행정관 | 연방 법 집행을 돕는 주의 기존 행정·사법 인력. (제27편) |
+| internal / external matters | 나라 안의 일 / 밖의 일 | (제27편) |
+| spirit of faction | 파벌 정신 | (제27편) |
