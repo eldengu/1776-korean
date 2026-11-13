@@ -188,3 +188,7 @@
 | ordinary magistracy (of each State) | 각 주의 평범한 행정관 | 연방 법 집행을 돕는 주의 기존 행정·사법 인력. (제27편) |
 | internal / external matters | 나라 안의 일 / 밖의 일 | (제27편) |
 | spirit of faction | 파벌 정신 | (제27편) |
+| militia vs. a force differently constituted | 민병대 / 민병대와 다르게 짜인 군대 | 민병대는 제4편 용어. 정규군 성격의 군대. (제28편) |
+| usurpation / usurpers | 찬탈 / 찬탈자 | 권력을 불법으로 가로챔. (제28편) |
+| seditions and insurrections | 폭동과 반란 | (제28편) |
+| right of self-defense (original) | 타고난 자기방어의 권리 | 모든 정부 형태에 앞서는 권리. (제28편) |
