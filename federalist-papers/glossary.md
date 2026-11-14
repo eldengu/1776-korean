@@ -192,3 +192,6 @@
 | usurpation / usurpers | 찬탈 / 찬탈자 | 권력을 불법으로 가로챔. (제28편) |
 | seditions and insurrections | 폭동과 반란 | (제28편) |
 | right of self-defense (original) | 타고난 자기방어의 권리 | 모든 정부 형태에 앞서는 권리. (제28편) |
+| select corps | 정예 부대 | 민병 가운데 젊고 열의 있는 사람을 따로 뽑아 훈련한 부대. (제29편) |
+| posse comitatus | 포시 코미타투스 | 행정관이 주민을 불러 법 집행을 돕게 하는 영국법의 관행. (제29편) |
+| well-regulated militia | 잘 짜인 민병대 | (제29편) |
