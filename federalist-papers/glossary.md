@@ -195,3 +195,8 @@
 | select corps | 정예 부대 | 민병 가운데 젊고 열의 있는 사람을 따로 뽑아 훈련한 부대. (제29편) |
 | posse comitatus | 포시 코미타투스 | 행정관이 주민을 불러 법 집행을 돕게 하는 영국법의 관행. (제29편) |
 | well-regulated militia | 잘 짜인 민병대 | (제29편) |
+| general power of taxation | 과세의 일반 권한 | 연방이 어떤 모양으로든 세금을 거둘 수 있는 권한. (제30편) |
+| internal / external taxation | 내부 과세 / 외부 과세 | 나라 안에서 거두는 세금 / 수입품에 매기는 관세. 반대자들이 가르는 구분. (제30편) |
+| quotas and requisitions | 분담금과 요청 | 주마다 몫을 정해 내라고 요청하는 제도. (제30편) |
+| ignis fatuus | 도깨비불 | 쫓아가면 사라지는 헛된 것. (제30편) |
+| Ottoman or Turkish empire / bashaws | 오스만 제국, 곧 튀르키예 제국 / 총독 | (제30편) |
