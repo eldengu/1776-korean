@@ -200,3 +200,6 @@
 | quotas and requisitions | 분담금과 요청 | 주마다 몫을 정해 내라고 요청하는 제도. (제30편) |
 | ignis fatuus | 도깨비불 | 쫓아가면 사라지는 헛된 것. (제30편) |
 | Ottoman or Turkish empire / bashaws | 오스만 제국, 곧 튀르키예 제국 / 총독 | (제30편) |
+| first principles / axioms | 첫 원리 / 공리 | 따져 볼 것 없이 마음이 받아들이는 으뜸 진리. (제31편) |
+| every power ought to be commensurate with its object | 모든 권한은 그 대상에 걸맞아야 한다 | 제23편의 원칙을 다시 꺼냄. (제31편) |
+| the members / the federal head | 구성원(주) / 연방의 우두머리 | 제30편 용어와 같음. (제31편) |
