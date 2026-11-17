@@ -203,3 +203,6 @@
 | first principles / axioms | 첫 원리 / 공리 | 따져 볼 것 없이 마음이 받아들이는 으뜸 진리. (제31편) |
 | every power ought to be commensurate with its object | 모든 권한은 그 대상에 걸맞아야 한다 | 제23편의 원칙을 다시 꺼냄. (제31편) |
 | the members / the federal head | 구성원(주) / 연방의 우두머리 | 제30편 용어와 같음. (제31편) |
+| partial union or consolidation | 일부만 통합함 | 주들을 완전히 합치지 않고 일부 권한만 연방에 모음. (제32편) |
+| concurrent jurisdiction | 함께 행사하는 권한 | 연방과 주가 같은 분야에서 동시에 갖는 권한. (제32편) |
+| negative pregnant | 함축적 부정 | 한 가지를 부정하며 다른 것을 긍정하는 법률 용어. (제32편) |
