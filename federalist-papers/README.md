@@ -42,5 +42,6 @@
 | [제30편](30.md) | 과세의 일반 권한에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제31편](31.md) | 같은 주제의 계속, 과세의 일반 권한에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제32편](32.md) | 같은 주제의 계속, 과세의 일반 권한에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
+| [제33편](33.md) | 같은 주제의 계속, 과세의 일반 권한에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 
 하루에 한 편씩 새 번역을 더해 갑니다.
