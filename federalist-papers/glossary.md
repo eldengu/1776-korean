@@ -206,3 +206,7 @@
 | partial union or consolidation | 일부만 통합함 | 주들을 완전히 합치지 않고 일부 권한만 연방에 모음. (제32편) |
 | concurrent jurisdiction | 함께 행사하는 권한 | 연방과 주가 같은 분야에서 동시에 갖는 권한. (제32편) |
 | negative pregnant | 함축적 부정 | 한 가지를 부정하며 다른 것을 긍정하는 법률 용어. (제32편) |
+| necessary and proper clause / sweeping clause | 필요하고 적절한 법 조항 / 포괄 조항 | 제1조 제8절 마지막 항. '포괄 조항'은 반대자들이 붙인 별명. (제33편) |
+| supremacy clause | 최고법 조항 | 제6조 제2항. 용어집의 "나라의 최고법"과 같은 말. (제33편) |
+| law of descent | 상속법 | 죽은 사람의 재산이 누구에게 넘어가는지 정한 법. (제33편) |
+| usurpation (act of) | 찬탈 행위 | 헌법이 주지 않은 권한을 가로챈 행위. (제33편) |
