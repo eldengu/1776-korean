@@ -213,3 +213,8 @@
 | comitia centuriata / comitia tributa | 백인조 민회 / 평민회 | 로마 공화국의 두 민회. 앞은 귀족, 뒤는 평민의 이익이 우세. (제34편) |
 | civil list | 공직 인건비 | 정부 공직자의 급여와 운영비. (제34편) |
 | political arithmetic | 정치 산술 | 정치·경제 문제를 수치로 따지는 18세기 학문. (제34편) |
+| duties on imports / imposts | 수입품 관세 | 외부 과세라고도 함. (제35편) |
+| excise | 소비세 | 나라 안에서 만든 특정 물품에 붙는 세금. (제35편) |
+| learned professions | 학식 있는 직업 | 법률가·의사·성직자 등. (제35편) |
+| landed interest | 지주의 이익 | (제35편) |
+| political economy | 정치경제 | 나라 살림과 재정의 원리를 다루는 18세기 학문. (제35편) |
