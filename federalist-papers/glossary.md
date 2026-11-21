@@ -218,3 +218,6 @@
 | learned professions | 학식 있는 직업 | 법률가·의사·성직자 등. (제35편) |
 | landed interest | 지주의 이익 | (제35편) |
 | political economy | 정치경제 | 나라 살림과 재정의 원리를 다루는 18세기 학문. (제35편) |
+| internal taxation / internal taxes | 내국세 | 나라 안에서 거두는 세금. 직접세(direct)와 간접세(indirect)로 나뉨. (제36편) |
+| poll tax | 인두세 | 재산과 상관없이 사람 수대로 매기는 세금. (제36편) |
+| requisition | 요청 | 연합규약 아래 연합 의회가 각 주에 돈을 내라고 하던 방식. (제36편) |
