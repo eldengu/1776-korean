@@ -46,5 +46,6 @@
 | [제34편](34.md) | 같은 주제의 계속, 과세의 일반 권한에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제35편](35.md) | 같은 주제의 계속, 과세의 일반 권한에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제36편](36.md) | 같은 주제의 계속, 과세의 일반 권한에 대하여 | 알렉산더 해밀턴 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
+| [제37편](37.md) | 알맞은 정부 형태를 고안하는 데 제헌회의가 겪은 어려움에 대하여 | 제임스 매디슨 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 
 하루에 한 편씩 새 번역을 더해 갑니다.

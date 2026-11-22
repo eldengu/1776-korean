@@ -221,3 +221,9 @@
 | internal taxation / internal taxes | 내국세 | 나라 안에서 거두는 세금. 직접세(direct)와 간접세(indirect)로 나뉨. (제36편) |
 | poll tax | 인두세 | 재산과 상관없이 사람 수대로 매기는 세금. (제36편) |
 | requisition | 요청 | 연합규약 아래 연합 의회가 각 주에 돈을 내라고 하던 방식. (제36편) |
+| fallibility / infallibility | 실수하기 쉬움 / 실수하지 않음 | 사람의 모임인 제헌회의도 완벽할 수 없다는 뜻. (제37편) |
+| stability and energy in government | 정부의 안정과 힘 | 공화정의 자유와 함께 이루어야 할 두 요소. (제37편) |
+| liquidated and ascertained (of laws) | 밝혀지고 확정됨 | 법의 뜻이 판결과 논의를 거쳐 분명해짐. (제37편) |
+| common law / statute law / maritime law / ecclesiastical law | 관습법 / 제정법 / 해사법 / 교회법 | 영국의 법 분야. (제37편) |
+| law, equity, admiralty (courts) | 보통법, 형평법, 해사 법원 | 영국 법원의 종류. (제37편) |
+| compromise (between large and small States) | 큰 주와 작은 주 사이의 타협 | (제37편) |
