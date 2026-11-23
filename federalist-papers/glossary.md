@@ -227,3 +227,8 @@
 | common law / statute law / maritime law / ecclesiastical law | 관습법 / 제정법 / 해사법 / 교회법 | 영국의 법 분야. (제37편) |
 | law, equity, admiralty (courts) | 보통법, 형평법, 해사 법원 | 영국 법원의 종류. (제37편) |
 | compromise (between large and small States) | 큰 주와 작은 주 사이의 타협 | (제37편) |
+| lawgiver (ancient) | 입법자 | 옛 그리스·로마에서 정부를 처음 세운 이름난 인물. (제38편) |
+| bill of rights | 권리 장전 | 국민의 기본 권리를 적은 문서. 용어집의 영국 "권리 장전"과 같은 말. (제38편) |
+| bills of credit | 어음 | 정부가 찍어 내는 어음식 지폐. (제38편) |
+| council of state | 국무 평의회 | 제20편 용어와 같음. 대통령을 보좌하는 평의회안. (제38편) |
+| dissolution or usurpation | 무너지거나 권력을 가로챔 | 힘이 없는 정부가 맞닥뜨리는 두 갈래 위험. (제38편) |
