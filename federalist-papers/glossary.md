@@ -232,3 +232,13 @@
 | bills of credit | 어음 | 정부가 찍어 내는 어음식 지폐. (제38편) |
 | council of state | 국무 평의회 | 제20편 용어와 같음. 대통령을 보좌하는 평의회안. (제38편) |
 | dissolution or usurpation | 무너지거나 권력을 가로챔 | 힘이 없는 정부가 맞닥뜨리는 두 갈래 위험. (제38편) |
+| conformity to republican principles | 공화 원칙에 맞음 | (제39편) |
+| republic (Madison's definition) | 공화국 | 모든 권한이 직접·간접으로 국민 대다수에게서 나오고 공직자가 임기를 정해 두거나 품행이 바른 동안 자리를 지키는 정부. (제39편) |
+| during pleasure / for a limited period / during good behavior | 임의로 맡는 기간 / 정해진 기간 / 품행이 바른 동안 | 공직 임기의 세 방식. (제39편) |
+| federal vs. national (form) | 연방 / 전국 | 새 헌법이 주들의 연합(연방)인가 하나의 합친 정부(전국)인가. 제39편은 두 말을 대비해 씀. (제39편) |
+| consolidation | 통합 | 주들을 하나로 합침. 연합(confederacy)과 대비. (제39편) |
+| immediate / eventual election (of the President) | 당장 뽑는 일 / 결선 | 선거인단 투표 / 과반이 없을 때 하원이 정하는 절차. (제39편) |
+| impeachment | 탄핵 | (제39편) |
+| titles of nobility | 귀족 작위 | (제39편) |
+| guaranty of the republican form | 공화 정부 형태의 보장 | (제39편) |
+| residuary and inviolable sovereignty | 나머지 권한과 침범할 수 없는 주권 | 각 주에 남는 몫. (제39편) |
