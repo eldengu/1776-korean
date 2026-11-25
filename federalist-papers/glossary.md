@@ -242,3 +242,9 @@
 | titles of nobility | 귀족 작위 | (제39편) |
 | guaranty of the republican form | 공화 정부 형태의 보장 | (제39편) |
 | residuary and inviolable sovereignty | 나머지 권한과 침범할 수 없는 주권 | 각 주에 남는 몫. (제39편) |
+| Annapolis meeting / act from Annapolis | 아나폴리스 회의 / 아나폴리스 회의의 권고 | 1786년 9월 일부 주 대표만 모인 회의. (제40편) |
+| recommendatory act (of Congress) | 연합 의회의 권고 결의 | (제40편) |
+| commissions (of delegates) | 위임장 | 대표가 각 주에서 받은 권한 문서. (제40편) |
+| construction (rules of) | 해석 (규칙) | 문서 표현을 푸는 법. (제40편) |
+| the end / the means | 목적 / 수단 | (제40편) |
+| informal and unauthorized propositions | 비공식적이고 권한 없는 제안 | (제40편) |

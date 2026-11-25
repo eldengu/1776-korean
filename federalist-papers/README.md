@@ -49,5 +49,6 @@
 | [제37편](37.md) | 알맞은 정부 형태를 고안하는 데 제헌회의가 겪은 어려움에 대하여 | 제임스 매디슨 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제38편](38.md) | 같은 주제의 계속, 새 계획안에 대한 반대 의견들의 앞뒤가 맞지 않음을 밝힘 | 제임스 매디슨 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제39편](39.md) | 새 계획안이 공화 원칙에 맞는지에 대하여 | 제임스 매디슨 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
+| [제40편](40.md) | 제헌회의에 혼합 정부를 만들 권한이 있었는지 살펴보고 옹호함 | 제임스 매디슨 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 
 하루에 한 편씩 새 번역을 더해 갑니다.
