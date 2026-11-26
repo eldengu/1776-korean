@@ -248,3 +248,8 @@
 | construction (rules of) | 해석 (규칙) | 문서 표현을 푸는 법. (제40편) |
 | the end / the means | 목적 / 수단 | (제40편) |
 | informal and unauthorized propositions | 비공식적이고 권한 없는 제안 | (제40편) |
+| standing army / peace establishment | 상비군 / 평시 군대 | 평화로운 때에도 계속 두는 상설 군대. (제41편) |
+| letters of marque | 나포 면허장 | 전시에 민간 선박에 적선 나포를 허가하는 문서. (제41편) |
+| external taxation | 외부 과세 | 수입품에 매기는 세금. (제41편) |
+| common defense and general welfare | 공동 방위와 일반 복리 | 헌법 제1조 8항의 표현. (제41편) |
+| appropriation (of revenue for the army) | 예산 배정 | (제41편) |
