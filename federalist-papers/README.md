@@ -51,5 +51,6 @@
 | [제39편](39.md) | 새 계획안이 공화 원칙에 맞는지에 대하여 | 제임스 매디슨 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제40편](40.md) | 제헌회의에 혼합 정부를 만들 권한이 있었는지 살펴보고 옹호함 | 제임스 매디슨 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 | [제41편](41.md) | 헌법이 정부에 맡기는 권한 전체를 개관함 | 제임스 매디슨 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
+| [제42편](42.md) | 외국과의 관계와 주들 사이의 관계에 관한 권한을 살핌 | 제임스 매디슨 | Claude Sonnet + [im-not-ai](https://github.com/epoko77-ai/im-not-ai) 윤문 |
 
 하루에 한 편씩 새 번역을 더해 갑니다.

@@ -253,3 +253,10 @@
 | external taxation | 외부 과세 | 수입품에 매기는 세금. (제41편) |
 | common defense and general welfare | 공동 방위와 일반 복리 | 헌법 제1조 8항의 표현. (제41편) |
 | appropriation (of revenue for the army) | 예산 배정 | (제41편) |
+| ambassador / public ministers / consuls | 대사 / 공사 / 영사 | 대사보다 낮은 등급의 사절이 공사. (제42편) |
+| felony / piracy on the high seas | 중죄 / 공해에서의 해적 행위 | (제42편) |
+| offenses against the law of nations | 국제법을 어긴 범죄 | (제42편) |
+| naturalization | 귀화 | 외국인이 시민이 되는 절차. (제42편) |
+| bankruptcy | 파산 | (제42편) |
+| post offices and post roads | 우체국과 우편 도로 | (제42편) |
+| Indian tribes | 인디언 부족 | 당시 표현 그대로. (제42편) |
